@@ -8,10 +8,10 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3DB2FF&center=true&vCenter=true&width=500&lines=Machine+Learning+Engineer;Natural+Language+Processing;Reinforcement+Learning;Computer+Vision;Always+learning+new+things" alt="Typing SVG" />
 
-
+</div>
 
 ---
-### 👨‍💻 About Me  
+<h3 align="center">### 👨‍💻 About Me </h3>
 I'm a recent **Computer Science graduate** majoring in **Machine Learning & Artificial Intelligence**.  
 I love building ML solutions in **NLP, Computer Vision, and Reinforcement Learning**.  
 Passionate about turning real-world problems into AI-powered solutions, with hands-on experience in **TensorFlow, PyTorch, and scikit-learn**.
@@ -115,7 +115,7 @@ Passionate about turning real-world problems into AI-powered solutions, with han
 </p>
 
 ---
-</div>
+
 <div align="center">
 
 ⭐️ *Show some love by starring my repositories!*  
