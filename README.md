@@ -11,14 +11,14 @@
 </div>
 
 ---
-<h3 align="center">### 👨‍💻 About Me </h3>
+### 👨‍💻 About Me
 I'm a recent **Computer Science graduate** majoring in **Machine Learning & Artificial Intelligence**.  
 I love building ML solutions in **NLP, Computer Vision, and Reinforcement Learning**.  
 Passionate about turning real-world problems into AI-powered solutions, with hands-on experience in **TensorFlow, PyTorch, and scikit-learn**.
 
 ## 🌐 Connect with me
 
-<p align="center">
+<p>
 <a href="mailto:zunainenashid@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/md-zunaine-nashid-575369227/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://github.com/MDZ-Nashid"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
