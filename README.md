@@ -2,7 +2,7 @@
 
 # Hi there! 👋 I'm **Md Zunaine Nashid**
 
-### 🚀 Machine Learning Engineer | NLP | RL | CV
+### 🚀 Machine Learning Engineer | NLP | RL | CV | LLMs
 
 <br/>
 
